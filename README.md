@@ -1,4 +1,4 @@
-# Computer Vision Repository
+# Computer Vision Projects
 
 This repository contains code and resources related to computer vision research and applications. Computer vision is a field of artificial intelligence that trains computers to interpret and understand visual data like images and videos. 
 
