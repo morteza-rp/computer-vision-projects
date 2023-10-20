@@ -8,9 +8,9 @@ This repository contains the following:
 
 - Image classification models: Code and notebooks for training and evaluating image classification models like convolutional neural networks (CNNs) on datasets like MNIST, CIFAR-10, ImageNet, etc.
 
-- Object detection models: Code and notebooks for training and using object detection models like YOLO, SSD, Faster R-CNN on datasets like PASCAL VOC, COCO, OpenImages, etc.
+- Object detection models: Code and notebooks for training and using object detection models like YOLO, SSD, on datasets like COCO.
 
-- Image segmentation models: Code and notebooks for semantic segmentation and instance segmentation using models like Mask R-CNN, DeepLab, etc.
+- Image segmentation models: Code and notebooks for semantic segmentation and instance segmentation using models like Mask R-CNN.
 
 - Computer vision theory and concepts: Reference notebooks explaining computer vision concepts like image filters, feature extraction, object tracking, etc.
 
